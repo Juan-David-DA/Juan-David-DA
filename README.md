@@ -1,6 +1,8 @@
 # 👋 Hola, soy Juan Pelaez
 
-Soy un Analista de Datos Junior apasionado por transformar datos en información valiosa mediante el análisis estructurado de distintas fuentes y la creación de dashboards claros e intuitivos que faciliten la toma de decisiones.
+Soy un **Analista de Datos Junior** apasionado por transformar datos en información valiosa mediante el análisis estructurado de
+distintas fuentes y la creación de dashboards claros e intuitivos que faciliten la toma de decisiones.
+
 ---
 
 ## 🚀 Sobre mí
