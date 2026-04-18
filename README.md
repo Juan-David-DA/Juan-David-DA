@@ -41,8 +41,6 @@ distintas fuentes y la creación de dashboards claros e intuitivos que faciliten
 - **[Realty_flow](https://github.com/Juan-David-DA/Realty_flow)**
 - **[ETL_Bancario](https://github.com/Juan-David-DA/ETL_bancario)**
 
-Proyecto de procesamiento de datos que implementa un flujo ETL para extraer, limpiar y transformar datos bancarios utilizando Python, preparándolos para análisis y toma de decisiones.
-
 ## 📫 Contacto
 - ✉️ **juandavidpelaezv105@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-pelaez-v/)  
